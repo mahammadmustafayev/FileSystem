@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\FF\FF\bin\Debug\net7.0\FF.exe
+C:\Users\acer\Desktop\FF\FF\bin\Debug\net7.0\FF.deps.json
+C:\Users\acer\Desktop\FF\FF\bin\Debug\net7.0\FF.runtimeconfig.json
+C:\Users\acer\Desktop\FF\FF\bin\Debug\net7.0\FF.dll
+C:\Users\acer\Desktop\FF\FF\bin\Debug\net7.0\FF.pdb
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.AssemblyInfo.cs
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.dll
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\refint\FF.dll
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.pdb
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\FF.genruntimeconfig.cache
+C:\Users\acer\Desktop\FF\FF\obj\Debug\net7.0\ref\FF.dll
